@@ -1,0 +1,15 @@
+/* resources/css/custom-font-size.css */
+
+/* Example: Adjust the font size for the sidebar */
+.fi-sidebar {
+    font-size: 14px; /* Your desired font size */
+}
+
+/* Add more custom styles as needed for other elements */
+/* For instance, if you want to adjust font size for headings: */
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.2em; /* Your desired heading font size */
+}
+
+/* Customize other elements similarly */
+/* ... */
